@@ -23,3 +23,10 @@ Security for the Network Time Protocol
 Protocol Version 4: Port Randomization
 - [RFC 9769](https://datatracker.ietf.org/doc/html/rfc9769) - NTP Interleaved Modes
 - [Network Time Protocol Version 5 (draft)](https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/)
+
+### Software Implementations
+
+- [`ntpd`](https://www.ntp.org/)
+- [Chrony](https://chrony-project.org/)
+- [NTPsec](https://www.ntpsec.org/)
+- [`ntpd-rs`](https://github.com/pendulum-project/ntpd-rs)
