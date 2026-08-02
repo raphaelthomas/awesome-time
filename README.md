@@ -159,6 +159,9 @@ Malhotra & Goldberg, FC'17: formal analysis of NTP's on/off-path threat model.
 Deutsch et al., NDSS'18: a client-side defense against time-shifting attacks.
 - [Taming the 800 Pound Gorilla: The Rise and Decline of NTP DDoS Attacks](https://conferences2.sigcomm.org/imc/2014/papers/p435.pdf) -
 Czyz et al., IMC'14: measurement study of the 2014 NTP amplification wave.
+- [On Borrowed Time: Measurement-Informed Understanding of the NTP Pool's Robustness to Monopoly Attacks](https://www.ndss-symposium.org/wp-content/uploads/2026-f541-paper.pdf) -
+Beverly & Rye, NDSS'26: shows a handful of malicious servers could capture
+most NTP Pool traffic in many countries.
 - [Network Time Security (NTS): Updated Security for NTP](https://blog.meinbergglobal.com/2021/07/14/network-time-security-nts-updated-security-for-ntp/) -
 Meinberg's overview of what NTS actually fixes.
 - [NTS Whitepaper](https://www.netnod.se/sites/default/files/2021-01/Netnod_NTS_Whitepaper_2020.pdf) -
