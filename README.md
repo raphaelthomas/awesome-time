@@ -249,6 +249,8 @@ practical series on diagnosing and fixing NTP in the real world.
 L. Mills on the origins and evolution of NTP.
 - [Computer Network Time Synchronization](https://www.eecis.udel.edu/~mills/book.html) - Mills'
 book on NTP's design and algorithms.
+- [Mastering Time Protocols](https://www.amazon.co.uk/Mastering-Time-Protocols-Aerospace-Interface/dp/B0FZ98PPBR) - Philippe
+Faucon on time protocols across aerospace and network interfaces.
 - [An Introduction to Modern Timekeeping and Time Transfer](https://isbnsearch.org/isbn/9783031307799) - Banerjee
 and Matsakis, Springer 2023, ISBN 978-3-031-30779-9.
 - [Maintaining the Time in a Distributed System](https://dl.acm.org/doi/pdf/10.1145/800221.806730) - Marzullo
